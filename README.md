@@ -24,3 +24,15 @@ Explore decision trees, a less-hyped but extremely powerful and widely used lear
 
 **Building a Neural Network**
 <img width="1186" height="571" alt="image" src="https://github.com/user-attachments/assets/0ff5fe5b-e7e7-4f9b-8cc4-aba4254481fb" />
+
+**Matrix Multiplication Rules**
+<img width="878" height="432" alt="image" src="https://github.com/user-attachments/assets/8b98555a-3ed2-43ee-a272-6d601fb9b9d3" />
+
+
+
+<img width="842" height="397" alt="image" src="https://github.com/user-attachments/assets/3f8296ca-fdfa-4aab-a7e4-a32f9787c7ad" />
+
+**Matrix Multiplication Requirements**
+
+- The number of columns in the first matrix (A transpose) must match the number of rows in the second matrix (W) for multiplication to be valid.
+- The dimensions of the resulting matrix Z reflect the number of rows from A transpose and the number of columns from W.
