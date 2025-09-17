@@ -36,3 +36,9 @@ Explore decision trees, a less-hyped but extremely powerful and widely used lear
 
 - The number of columns in the first matrix (A transpose) must match the number of rows in the second matrix (W) for multiplication to be valid.
 - The dimensions of the resulting matrix Z reflect the number of rows from A transpose and the number of columns from W.
+
+
+
+**Choosing Activation Functions**
+<img width="751" height="376" alt="image" src="https://github.com/user-attachments/assets/63b3c642-8718-4cec-9a91-31b6fbf1aa0b" />
+
