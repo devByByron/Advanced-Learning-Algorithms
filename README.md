@@ -42,3 +42,10 @@ Explore decision trees, a less-hyped but extremely powerful and widely used lear
 **Choosing Activation Functions**
 <img width="751" height="376" alt="image" src="https://github.com/user-attachments/assets/63b3c642-8718-4cec-9a91-31b6fbf1aa0b" />
 
+
+**Diagnosing Bias and Variance**
+<img width="1073" height="533" alt="image" src="https://github.com/user-attachments/assets/2a69733a-fa75-49fe-9a7a-4d967cbde809" />
+
+
+
+**Decision Trees**
